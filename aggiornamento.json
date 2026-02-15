@@ -1,7 +1,8 @@
 {
-  "versione": "1.0.1",
+  "versione": "1.0.2",
   "url": "https://github.com/pompierecattivo/comesifa/releases/latest/download/ComeSiFa.exe",
   "note": [
-    "Primo aggiornamento di test"
+    "Primo aggiornamento di test",
+    "Fix pagina guest senza password"
   ]
 }
