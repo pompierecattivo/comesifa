@@ -1,9 +1,10 @@
 {
-  "versione": "1.0.3",
+  "versione": "1.0.4",
   "url": "https://github.com/pompierecattivo/comesifa/releases/latest/download/ComeSiFa.exe",
   "note": [
     "Primo aggiornamento di test",
     "Fix pagina guest senza password",
-    "Motore di generazione IA v2.5"
+    "Motore di generazione IA v2.5",
+    "Logica di sovrascrittura manuale IA"
   ]
 }
