@@ -1,9 +1,7 @@
 {
-  "versione": "1.1.0",
+  "versione": "2.0.0",
   "url": "https://github.com/pompierecattivo/comesifa/releases/latest/download/ComeSiFa.exe",
   "note": [
-    "Motore di generazione IA v2.7",
-    "Logica di sovrascrittura manuale IA",
-    "Management upload"
+    "Installer"
   ]
 }
